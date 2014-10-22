@@ -44,10 +44,10 @@
             "Anguish",
             "Arthur",
             "Heleian",
-            "Constantine-1",
+            "Emperor Constantine",
             "Belinius",
             "Berenius”,
-            "Constantine-2"
+            "Constantine"
 ]
     }, {
         "name"    : "Idres",
@@ -98,7 +98,7 @@
             "Cador"
 ]
     }, {
-        "name"    : "Constatine-1",
+        "name"    : "Emperor Constatine",
         "type"    : "group6",
         "depends" : [
             "Heleian",
@@ -140,7 +140,7 @@
             "Lancelot"
 ]
     }, {
-        "name"    : "Constantine-2",
+        "name"    : "Constantine",
         "type"    : "group1",
         "depends" : [
             "Baudwin",
@@ -152,7 +152,7 @@
         "type"    : "group1",
         "depends" : [
             "Arthur",
-            "Constantine-2"
+            "Constantine"
 ]
     }, {
         "name"    : "Howell",
