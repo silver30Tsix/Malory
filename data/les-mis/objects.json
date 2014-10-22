@@ -21,7 +21,7 @@
             "Kay"
             "Lionel"
             "Berel"
-            "Constantine (2)"
+            "Constantine-2"
             "Philosophers"
 ]
     }, {
@@ -44,10 +44,10 @@
             "Anguish",
             "Arthur",
             "Heleian",
-            "Constantine (1)",
+            "Constantine-1",
             "Belinius",
             "Berenius”,
-            "Constantine (2)"
+            "Constantine-2"
 ]
     }, {
         "name"    : "Idres",
@@ -98,7 +98,7 @@
             "Cador"
 ]
     }, {
-        "name"    : "Constatine (1)",
+        "name"    : "Constatine-1",
         "type"    : "group6",
         "depends" : [
             "Heleian",
@@ -108,7 +108,7 @@
         "name"    : "Heleian",
         "type"    : "group6",
         "depends" : [
-            "Constatine (1)",
+            "Constatine-1",
             "Cador"
 ]
     }, {
@@ -140,7 +140,7 @@
             "Lancelot"
 ]
     }, {
-        "name"    : "Constantine (2)",
+        "name"    : "Constantine-2",
         "type"    : "group1",
         "depends" : [
             "Baudwin",
@@ -152,7 +152,7 @@
         "type"    : "group1",
         "depends" : [
             "Arthur",
-            "Constantine (2)"
+            "Constantine-2"
 ]
     }, {
         "name"    : "Howell",
